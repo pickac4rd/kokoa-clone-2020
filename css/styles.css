@@ -6,10 +6,12 @@
 @import url("components/nav-bar.css");
 @import url("components/screen-header.css");
 @import url("components/user-component.css");
+@import url("components/badge.css");
 
 /* screens */
 @import url("screens/login.css");
 @import url("screens/friends.css");
+@import url("screens/find.css");
 
 body {
   color: #2e363e;
