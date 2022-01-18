@@ -13,9 +13,8 @@
 }
 
 .friends-screen {
-  padding: 0px var(--horizontal-space)
+  padding: 0px var(--horizontal-space);
 }
-
 
 .friends-screen__channel {
   margin-top: 25px;
@@ -28,5 +27,5 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  color: rgba(0,0,0,0.5);
+  color: rgba(0, 0, 0, 0.5);
 }

@@ -7,7 +7,7 @@
 @import url("components/screen-header.css");
 @import url("components/user-component.css");
 @import url("components/badge.css");
-
+@import url("components/icon-row.css");
 /* screens */
 @import url("screens/login.css");
 @import url("screens/friends.css");
